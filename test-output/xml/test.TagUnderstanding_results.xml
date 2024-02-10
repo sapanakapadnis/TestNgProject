@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Regression1"
+           tests="6"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.007">
+    <properties></properties>
+
+
+
+            <testcase
+                name="tc003"
+                time="0.000"
+                classname="test.TagUnderstanding">
+            </testcase>
+            <testcase
+                name="tc002"
+                time="0.000"
+                classname="test.TagUnderstanding">
+            </testcase>
+            <testcase
+                name="tc004"
+                time="0.001"
+                classname="test.TagUnderstanding">
+            </testcase>
+            <testcase
+                name="tc005"
+                time="0.000"
+                classname="test.TagUnderstanding">
+            </testcase>
+            <testcase
+                name="tc001"
+                time="0.005"
+                classname="test.TagUnderstanding">
+            </testcase>
+            <testcase
+                name="tc006"
+                time="0.001"
+                classname="test.TagUnderstanding">
+            </testcase>
+</testsuite>

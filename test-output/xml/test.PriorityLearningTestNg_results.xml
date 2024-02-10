@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="priorityLearning"
+           tests="10"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.004">
+    <properties></properties>
+
+
+
+            <testcase
+                name="tc002"
+                time="0.001"
+                classname="test.PriorityLearningTestNg">
+            </testcase>
+            <testcase
+                name="tc006"
+                time="0.001"
+                classname="test.PriorityLearningTestNg">
+            </testcase>
+            <testcase
+                name="tc0010"
+                time="0.000"
+                classname="test.PriorityLearningTestNg">
+            </testcase>
+            <testcase
+                name="tc004"
+                time="0.000"
+                classname="test.PriorityLearningTestNg">
+            </testcase>
+            <testcase
+                name="tc001"
+                time="0.001"
+                classname="test.PriorityLearningTestNg">
+            </testcase>
+            <testcase
+                name="tc009"
+                time="0.000"
+                classname="test.PriorityLearningTestNg">
+            </testcase>
+            <testcase
+                name="tc007"
+                time="0.000"
+                classname="test.PriorityLearningTestNg">
+            </testcase>
+            <testcase
+                name="tc005"
+                time="0.000"
+                classname="test.PriorityLearningTestNg">
+            </testcase>
+            <testcase
+                name="tc003"
+                time="0.000"
+                classname="test.PriorityLearningTestNg">
+            </testcase>
+            <testcase
+                name="tc008"
+                time="0.001"
+                classname="test.PriorityLearningTestNg">
+            </testcase>
+</testsuite>

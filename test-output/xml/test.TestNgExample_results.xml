@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="homepage1"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="19.837">
+    <properties></properties>
+
+
+
+            <testcase
+                name="doDevLabFooterValidation"
+                time="0.084"
+                classname="test.TestNgExample">
+            </testcase>
+            <testcase
+                name="doDevLabHeaderMenuValidation"
+                time="19.753"
+                classname="test.TestNgExample">
+            </testcase>
+</testsuite>

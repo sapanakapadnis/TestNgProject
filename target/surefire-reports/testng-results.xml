@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-03T09:53:09 EST" name="demo" finished-at="2024-02-03T09:53:21 EST" duration-ms="11988">
+    <groups>
+    </groups>
+    <test started-at="2024-02-03T09:53:09 EST" name="login" finished-at="2024-02-03T09:53:21 EST" duration-ms="11988">
+      <class name="saucedemo.LoginPageObjectModel">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:saucedemo.LoginPageObjectModel@35ef1869]" started-at="2024-02-03T09:53:09 EST" name="launchBrowser" finished-at="2024-02-03T09:53:14 EST" duration-ms="5465" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.saucedemo.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="loginCreds()[pri:0, instance:saucedemo.LoginPageObjectModel@35ef1869]" started-at="2024-02-03T09:53:14 EST" name="loginCreds" finished-at="2024-02-03T09:53:20 EST" duration-ms="5500" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginCreds -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:saucedemo.LoginPageObjectModel@35ef1869]" started-at="2024-02-03T09:53:20 EST" name="closeBrowser" finished-at="2024-02-03T09:53:21 EST" duration-ms="987" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- saucedemo.LoginPageObjectModel -->
+    </test> <!-- login -->
+  </suite> <!-- demo -->
+</testng-results>

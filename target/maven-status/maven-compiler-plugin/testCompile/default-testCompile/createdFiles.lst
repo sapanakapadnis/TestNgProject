@@ -1,0 +1,15 @@
+test\SecondExampleTags.class
+action\Action.class
+practice\GetStartedValidate.class
+test\PriorityLearningTestNg.class
+pageObjectModel\CartSauceLab.class
+pageObjectModel\CheckoutSauceLab.class
+practice\HeaderValidate.class
+test\TestNgExample.class
+practice\SignInValidate.class
+pageObjectModel\LoginSauceLab.class
+saucedemo\LoginPageObjectModel.class
+pageObjectModel\HomeSauceLab.class
+pageObjectModel\CountItemDisplayPrice.class
+test\Login.class
+test\TagUnderstanding.class
