@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-02-03T09:53:09 EST" name="demo" finished-at="2024-02-03T09:53:21 EST" duration-ms="11988">
+  <suite started-at="2024-02-11T09:38:56 EST" name="demo" finished-at="2024-02-11T09:39:09 EST" duration-ms="12778">
     <groups>
     </groups>
-    <test started-at="2024-02-03T09:53:09 EST" name="login" finished-at="2024-02-03T09:53:21 EST" duration-ms="11988">
+    <test started-at="2024-02-11T09:38:56 EST" name="login" finished-at="2024-02-11T09:39:09 EST" duration-ms="12778">
       <class name="saucedemo.LoginPageObjectModel">
-        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:saucedemo.LoginPageObjectModel@35ef1869]" started-at="2024-02-03T09:53:09 EST" name="launchBrowser" finished-at="2024-02-03T09:53:14 EST" duration-ms="5465" status="PASS">
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:saucedemo.LoginPageObjectModel@35ef1869]" started-at="2024-02-11T09:38:56 EST" name="launchBrowser" finished-at="2024-02-11T09:39:02 EST" duration-ms="5656" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,11 +18,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method signature="loginCreds()[pri:0, instance:saucedemo.LoginPageObjectModel@35ef1869]" started-at="2024-02-03T09:53:14 EST" name="loginCreds" finished-at="2024-02-03T09:53:20 EST" duration-ms="5500" status="PASS">
+        <test-method signature="loginCreds()[pri:0, instance:saucedemo.LoginPageObjectModel@35ef1869]" started-at="2024-02-11T09:39:02 EST" name="loginCreds" finished-at="2024-02-11T09:39:08 EST" duration-ms="6683" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginCreds -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:saucedemo.LoginPageObjectModel@35ef1869]" started-at="2024-02-03T09:53:20 EST" name="closeBrowser" finished-at="2024-02-03T09:53:21 EST" duration-ms="987" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:saucedemo.LoginPageObjectModel@35ef1869]" started-at="2024-02-11T09:39:08 EST" name="closeBrowser" finished-at="2024-02-11T09:39:09 EST" duration-ms="395" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
